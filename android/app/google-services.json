@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "576829421900",
+    "firebase_url": "https://mr-beast-burger-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mr-beast-burger",
+    "storage_bucket": "mr-beast-burger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576829421900:android:9cb40596f8691d00d2b7e9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_web_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkrJny-Mtzf-sYqeCSbX-HbVY-RCG3Y68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
